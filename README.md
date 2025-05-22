@@ -2,8 +2,9 @@
 <h3 align="center">Frontend Developer | React.js | Next.js | JavaScript Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer+with+3.5+Years+Experience;React+%7C+Next.js+%7C+JavaScript+Expert;Building+Clean+%26+Responsive+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=550&lines=Frontend+Developer+with+3.5+Years+Experience;React+%7C+Next.js+%7C+JavaScript+Expert;Building+Clean+%26+Responsive+UIs" alt="Typing SVG" />
 </p>
+
 
 ---
 
