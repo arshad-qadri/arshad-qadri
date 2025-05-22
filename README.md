@@ -47,7 +47,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshadqadri321&show_icons=true&theme=react&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arshad-qadri&show_icons=true&theme=react&hide=issues" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshadqadri321&theme=react" />
 </p>
 
