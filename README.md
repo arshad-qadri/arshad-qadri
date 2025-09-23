@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React.js | Next.js | JavaScript Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=550&lines=Frontend+Developer+with+3.5+Years+Experience;React+%7C+Next.js+%7C+JavaScript+Expert;Building+Clean+%26+Responsive+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=550&lines=Frontend+Developer+with+3.8+Years+Experience;React+%7C+Next.js+%7C+JavaScript+Expert;Building+Clean+%26+Responsive+UIs" alt="Typing SVG" />
 </p>
 
 
@@ -13,7 +13,7 @@
 - 🔭 I’m currently working as a **Frontend Developer**
 - 🌱 I’m exploring advanced **React, Next.js, and Tailwind CSS**
 - 💬 Ask me about **React.js, JavaScript, Next.js, REST APIs, UI Design**
-- 👨‍💼 Total Experience: **3.5+ Years**
+- 👨‍💼 Total Experience: **3.8+ Years**
 - 📫 How to reach me: **arshadqadri321@gmail.com** | 📱 **+91 8007330423**
 - 🌐 Portfolio: *(Add your portfolio link here if available)*
 
